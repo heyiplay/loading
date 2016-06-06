@@ -1,6 +1,6 @@
-# Monitor
-![The loading preview 1](https://github.com/heyiplay/loading/blob/master/doc/youkutudou.png)  
-![The loading preview 2](https://github.com/heyiplay/loading/blob/master/doc/heyi.png)  
+# HeyiPlayLoading
+![The loading preview 1](https://github.com/heyiplay/loading/blob/master/doc/youkutudou.jpg)  
+![The loading preview 2](https://github.com/heyiplay/loading/blob/master/doc/heyi.jpg)  
 
 rely on
 [RSL](https://github.com/heyiplay/rsl)  
