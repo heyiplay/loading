@@ -1,4 +1,5 @@
 # HeyiPlayLoading
+The design implication is youku and tudou play merge:
 ![The loading preview 1](https://github.com/heyiplay/loading/blob/master/doc/youkutudou.jpg)  
 ![The loading preview 2](https://github.com/heyiplay/loading/blob/master/doc/heyi.jpg)  
 
